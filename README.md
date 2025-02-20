@@ -12,7 +12,7 @@ This is an advanced Discord bot framework built with JavaScript. It includes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/khanmanan/my-discord-bot-2025.git
+git clone https://github.com/khanmanan/discord-bot-2025.git
 ```
 
 2. Navigate into the project directory:
